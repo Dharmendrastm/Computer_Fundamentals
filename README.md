@@ -311,7 +311,8 @@ generation.
 ---
 
 💻 **Author:** Dharmendra Kumar 🛡️
-📅 **GitHub Repo:**  
+
+📅 **GitHub Repo:**  [Computer Fundamentals](https://github.com/Dharmendrastm/Computer_Fundamentals)
 
 ---
 
