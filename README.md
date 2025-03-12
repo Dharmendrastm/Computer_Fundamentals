@@ -192,6 +192,7 @@ Named **QWERTY** after its first six letters.
 ---
 
 1. 🏛️ **First Generation (1945-1955)**
+
 First Generation: The first generation of computers is considered to have
 started from 1945. During this generation, Vacuum Tube Technology was
 used.
@@ -216,6 +217,7 @@ used.
 
 ---
 2. 🔬 **Second Generation (1955-1964)**
+
 Second Generation:-The second generation of computers is considered to have
 started from 1956 to 1964. In this generation, Transistor Technology was introduced. The transistor was invented by William Shockley in 1947.
 
@@ -235,6 +237,7 @@ started from 1956 to 1964. In this generation, Transistor Technology was introdu
 
 ---
 3. 🏗️ **Third Generation (1964-1975)** 
+
 The third generation of computers is considered to have
 started from 1964. During this generation, Integrated Circuit (IC) technology was
 introduced. The full form of IC is Integrated Circuit, and it was developed by Jack
@@ -260,7 +263,8 @@ Kilby in 1958.
 
 ---
 4. 🖥️ **Fourth Generation (1975-1989)**
-   The fourth generation of computers is considered to have
+
+The fourth generation of computers is considered to have
 started from 1976 to 1989. The technology used in this generation was VLSI (Very Large-Scale Integration).
 
 **Features of Fourth Generation:**
@@ -286,7 +290,8 @@ started from 1976 to 1989. The technology used in this generation was VLSI (Very
 
 ---
 5. 🤖 **Fifth Generation (1989-Present)**
-   The fifth generation of computers is considered to have started from 1989 and continues to the present time. During this generation, advanced IC technologywas introduced, known as ULSI (Ultra Large-Scale Integration). This technology allowed more than 10 million components to be placed on a single chip, which drastically increased the speed and
+
+The fifth generation of computers is considered to have started from 1989 and continues to the present time. During this generation, advanced IC technologywas introduced, known as ULSI (Ultra Large-Scale Integration). This technology allowed more than 10 million components to be placed on a single chip, which drastically increased the speed and
 performance of computers compared to the fourth generation.
 
 **Features of Fifth Generation:**
